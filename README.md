@@ -1,4 +1,4 @@
-# nlocking the Potential of Large Language Models for 5G with InstructLab: Enhancing Knowledge and Uptime  
+# Unlocking the Potential of Large Language Models for 5G with InstructLab: Enhancing Knowledge and Uptime  
 
 Written by: A. Sonmez in collaboration with S.Molnar
 
