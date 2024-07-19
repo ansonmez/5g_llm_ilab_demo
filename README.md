@@ -1,6 +1,6 @@
 # Unlocking the Potential of Large Language Models for 5G with InstructLab: Enhancing Knowledge and Uptime  
 
-Written by: A. Sonmez in collaboration with S.Molnar
+Written by A. Sonmez and S. Molnar
 
 In this demo, we will showcase the enhancement of foundational language models (LLMs) for effectively addressing 5G-related common network faults for CNFs, improving response times by accelerating remediation efforts to minimize downtime.
 
